@@ -15,7 +15,7 @@ env:
   CONTAINER_NAME: tfstate
   BLOB_NAME: terraform.tfstate
   
-  WORKING_DIRECTORY: 02_WebApp
+  WORKING_DIRECTORY: 01_ResourceGroup
   
 jobs:
   scan-terraform-config:
