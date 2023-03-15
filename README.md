@@ -44,3 +44,9 @@ Course available on Udemy: https://www.udemy.com/course/deploy-infra-in-the-clou
             "galleryEndpointUrl": "https://gallery.azure.com/",
             "managementEndpointUrl": "https://management.core.windows.net/"
         }
+
+
+        # GitHub Actions Service Principal:
+        https://learn.microsoft.com/en-us/azure/developer/github/connect-from-azure?tabs=azure-portal%2Cwindows
+
+        https://learn.microsoft.com/en-us/azure/active-directory/develop/workload-identity-federation-create-trust?pivots=identity-wif-apps-methods-azp
